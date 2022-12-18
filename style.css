@@ -1,0 +1,101 @@
+
+body{
+
+    animation-name: Animation;
+
+    animation-duration: 2s;
+
+
+background-color: black;
+
+
+}
+
+
+#header_id{
+
+    animation-name: Animation;
+
+    animation-duration: 2s;
+
+    text-align: center;
+
+    color:blueviolet;
+
+}
+
+#nova_div2{
+
+    animation-name: Animation;
+
+    animation-duration: 2s;
+
+text-align: center;
+
+color:blueviolet;
+
+}
+
+
+
+#nova_div3{
+
+  animation-name: Animation;
+
+  animation-duration: 2s;
+
+    text-align: center;
+
+    color:blueviolet;
+
+}
+
+#novo_h1{
+
+    animation-name: Animation;
+
+    animation-duration: 2s;
+  
+      text-align: center;
+  
+      color:blueviolet;
+
+}
+
+@keyframes Animation{
+
+
+    from{ opacity: 0;
+         transform: translateX(-20px);}
+
+
+    to{ opacity: 1;
+         transform: translateX(0px);}
+
+}
+
+#iframe{
+
+
+margin-left: 355px;
+
+margin-top: 20px;
+
+
+
+}
+
+#div4{
+
+    animation-name: Animation;
+
+    animation-duration: 2s;
+  
+      text-align: center;
+  
+      color:blueviolet;
+
+
+
+
+}
